@@ -1,1 +1,3 @@
+npm init -y
 npm i express dotenv mongoose jsonwebtoken stripe cloudinary cookie-parser bcryptjs ioredis
+npm i -D nodemon
